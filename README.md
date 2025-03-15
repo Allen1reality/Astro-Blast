@@ -1,4 +1,4 @@
-# Astro-shoot
+# Astro-Blast
 A space shooting game made with ChatGPT
 Yellow fuel increase time.
 Blue bonus for 3 blasts in 10 sec = 2 fires
